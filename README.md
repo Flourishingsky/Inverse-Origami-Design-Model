@@ -5,6 +5,6 @@ Please read the Software Product Description.pdf file before your use.
 
 **Our paper for this model has been accepted by *Soft Robotics* journal. Comments and Citations welcome！**
 
-Q. Hu, J. Li, J. Tao, E. Dong, and D. Sun, "Inverse origami design model for soft robotic development," *Soft Robotics*, Accept, 2023.
+Q. Hu, J. Li, J. Tao, E. Dong, and D. Sun, "Inverse origami design model for soft robotic development," *Soft Robotics*, Aug, 2023, doi: [https://doi.org/10.1089/soro.2022.0197](https://doi.org/10.1089/soro.2022.0197).
 
 **A new version for the software has been released, please refer to the link [https://github.com/Flourishingsky/Origami-Generator-2.0.git](https://github.com/Flourishingsky/Origami-Generator-2.0.git)**
